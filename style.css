@@ -1,0 +1,24 @@
+  body
+  {
+    color: white;
+    background-image: url("fondo03.jpg"); /* Imagen de <a href="https://pixabay.com/es/users/gibetmoll-6986517/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3116062">GibetMoll</a> en <a href="https://pixabay.com/es//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3116062">Pixabay</a>*/
+    
+  }
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+  #camera 
+  {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+  }
+  .name_of_objects, #result_object_name  , #result_object_accuracy
+  {
+    color: rgb(251, 252, 252);
+    background-color: rgb(11, 103, 110);
+    font-size: 25px;
+  }
+ 
